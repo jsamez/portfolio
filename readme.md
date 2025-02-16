@@ -39,7 +39,7 @@
 - **주요 라이브러리:** OpenVINO, TensorFlow, BeautifulSoup, Excel, Pycharm
 
 
-### 4. [활동감지 스마트홈]([프로젝트 GitHub 링크](https://github.com/jsamez/ARR))
+### 4. [활동감지 스마트홈]([프로젝트 GitHub 링크](https://github.com/jsamez/CSE))
 - **설명**: 카메라를 통해 식재료를 인공지능을 통해 인식 후 만들 수 있는 레시피를 UI에 표시합니다.
 - **주요 기능**:
   - 카메라에 들어온 식재료를 인식
